@@ -1,0 +1,7 @@
+streamlit
+opencv-python-headless
+cvzone
+numpy
+Pillow
+google-generativeai
+mediapipe
